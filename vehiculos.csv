@@ -1,0 +1,7 @@
+Tipo,Marca,Modelo,Patente,Año,Servicio,Dueños/Empresa,Kilometraje/Rubro,Condición/Carga
+P,Toyota,Corolla,ABC123,2015,Aceite,2,50000,Buena
+C,Mercedes,Sprinter,DEF456,2018,Revisión general,Transportes S.A.,Logística,3.5
+P,Ford,Focus,GHI789,2012,Neumáticos,4,80000,Regular
+C,Volvo,FH16,JKL012,2020,Frenos,Cargas Pesadas,Transporte,12.0
+P,Hyundai,Elantra,MNO345,2019,Cambio de aceite,1,30000,Buena
+C,Iveco,Daily,PQR678,2017,Filtro de aire,Distribuciones Rápidas,Logística,7.5
